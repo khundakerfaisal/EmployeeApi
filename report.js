@@ -4,7 +4,6 @@ require('dotenv').config();
 newman.run({
     // collection:`https://api.postman.com/collections/1844288-0c2f5c62-e7d8-4d31-8baa-6158bf88f4a0?access_key=${process.env.secretKey}`,
     collection:`https://api.postman.com/collections/52498897-2a596169-603f-43d2-b980-f74c235385b6?access_key=${process.env.secretKey}`,
-    // collection:require('./collection/collection.json'),
     reporters: 'htmlextra',
     iterationCount: 1,
     reporter: {
