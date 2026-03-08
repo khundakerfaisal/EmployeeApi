@@ -12,3 +12,7 @@ npm init -y
 ``` bash
 npm i newman
 ```
+## Newman Report
+![report 1](https://github.com/user-attachments/assets/7db3d45a-0a6d-4730-ae71-1821102049d5)
+![report 2](https://github.com/user-attachments/assets/21fd3a89-5945-435a-9181-fd9164fa5c33)
+
